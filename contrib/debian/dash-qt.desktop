@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Goodmorningnetwork
+Comment=Goodmorningnetwork P2P Cryptocurrency
+Comment[fr]=Goodmorningnetwork, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Goodmorningnetwork, eşten eşe kriptografik sanal para birimi
+Exec=Goodmorningnetwork-qt %u
+Terminal=false
+Type=Application
+Icon=dash128
+MimeType=x-scheme-handler/Goodmorningnetwork;
+Categories=Office;Finance;
